@@ -418,7 +418,7 @@ dependencies {
     debugImplementation("com.squareup.leakcanary:leakcanary-android:2.14")
 
     // desugaring
-    coreLibraryDesugaring("com.android.tools:desugar_jdk_libs:2.0.4")
+    coreLibraryDesugaring("com.android.tools:desugar_jdk_libs:2.1.4")
 
     // yes
     implementation("com.github.fingerprintjs:fingerprint-android:2.1.0")
