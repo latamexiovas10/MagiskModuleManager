@@ -1,5 +1,5 @@
 dependencyResolutionManagement {
-    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositoriesMode.set(RepositoriesMde.FAIL_ON_PROJECT_REPOS)
     repositories {
         google()
         mavenCentral()
@@ -8,6 +8,6 @@ dependencyResolutionManagement {
         }
         maven { url 'https://maven.fpregistry.io/releases' }
     }
-}
+
 rootProject.name = "MagiskModuleManager"
 include ':app'
