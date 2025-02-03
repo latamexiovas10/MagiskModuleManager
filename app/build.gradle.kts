@@ -406,7 +406,7 @@ dependencies {
 
     // some utils
     implementation("commons-io:commons-io:2.16.1")
-    implementation("org.apache.commons:commons-compress:1.26.1")
+    implementation("org.apache.commons:commons-compress:1.27.1")
 
     // analytics
     implementation("ly.count.android:sdk:24.1.1")
